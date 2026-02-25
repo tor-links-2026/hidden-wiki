@@ -1,5 +1,5 @@
 # DEEP WEB LINKS 2026
-If you are looking for dark web sites, we have them all in one place.
+If you are looking for dark web sites or tor links, we have them all in one place.
 
 ---
 
