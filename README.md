@@ -1,5 +1,5 @@
-# DEEP WEB LINKS 2026
-If you are looking for dark web sites or tor links, we have them all in one place.
+# HIDDEN WIKI 2026 LINKS
+If you are looking for dark web sites or tor links to access hidden wiki, we have them all in one place.
 
 ---
 
