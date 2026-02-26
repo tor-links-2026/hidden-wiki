@@ -35,6 +35,38 @@ The dark web is a hidden division of the internet that can only be accessed by t
 
 # **Deep Web Links** acts as a wiki featuring TOR links to working onion sites and markets. The original Hidden Wiki was a community-maintained directory of links connecting to various hidden sites.
 
+## What are Tor layers?
+
+Guard node — knows your IP address but doesn’t know where you connect to and what you send to destination
+Middle node — immediate layer between guard node and exit node
+Exit node — knows destination but doesn’t know who you are
+
+# What are hidden services?
+
+Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example deep web links in table above.
+
+# How to find hidden services
+
+There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
+
+This github page is maintained by voluteers, that makes this page get updated more often - to provide better access to information.
+
+There are some darknet search engines mostly created by amateurs and they are very limited due to hidden services nature.
+
+Before accessing any darknet site, make sure that it’s legal in your country to browse content that they contain.
+
+
+# Who created Tor? How Dark web started?
+
+
+The idea of onion routing was created in 1995 at the U.S. Naval Research Lab by David Goldschlag, Mike Reed and Paul Syverson in effect of a research to find a way to create Internet connections that don’t reveal who is talking to whom. The reason was to protect US intelligence communications online.
+
+In early 2000s, Roger Dingledine (MIT graduate) with Paul Syverson began working on the onion routing project created at Naval Research Lab. To distinguish their work from other efforts, they named the project Tor (The Onion Routing).
+
+Tor was oficially deployed in October 2002 and its source code was released under a free and open software license. In December 2006 computer scientists Roger Dingledine, Nick Mathewson and five others founded The Tor Project research-education nonprofit organization that is responsible for maintaining the software.
+
+Tor is supported by US government, many NGOs, private foundations, research institutions, private companies and over 20,000 personal donations from people from around the World.
+
 ---
 
 ## Disclaimer
