@@ -20,7 +20,7 @@ The Hidden Wiki contains directories of dark web links that are active in 2026 f
 **Contact Us:** If you want to add or report offline onion site, please contact us at email
 
 # How Tor Links work?
-Your traffic passes through 3 intermediate nodes before reaching destination. Each of the 3 nodes has separate layer of encryption and nobody who watches your connection can read what you send and where.
+Tor browser uses special OnionV3 links with .onion domains, Unlike traditional domains this works more like a cryptocurrency: Public adress - to access the site, and Private key - to host the site. You need to find a working Public adress on sites like hidden wiki - that is much faster than trying to manually visit many active sites at once and checking what's on them.
 
 
 ---
