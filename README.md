@@ -38,9 +38,9 @@ Hidden Wiki is a community-maintained directory of TOR links connecting to vario
 
 ## What are Tor layers?
 
-Guard node — knows your IP address but doesn’t know where you connect to and what you send to destination
-Middle node — immediate layer between guard node and exit node
-Exit node — knows destination but doesn’t know who you are
+- Guard node — knows your IP address but doesn’t know where you connect to and what you send to destination
+- Middle node — immediate layer between guard node and exit node
+- Exit node — knows destination but doesn’t know who you are
 
 # What are hidden services?
 
