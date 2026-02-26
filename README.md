@@ -33,7 +33,8 @@ While accessing the Hidden Wiki is not illegal in many countries, performing ill
 ### How did it start?
 The dark web is a hidden division of the internet that can only be accessed by those with special tools and is concealed below regular browsing. The **Onion Router (TOR)** network hosts the dark web, allowing users to remain anonymous.
 
-# **Deep Web Links** acts as a wiki featuring TOR links to working onion sites and markets. The original Hidden Wiki was a community-maintained directory of links connecting to various hidden sites.
+# **Deep Web Links** to working onion sites and markets can be found on The Hidden Wiki.
+Hidden Wiki is a community-maintained directory of TOR links connecting to various Dark Web sites.
 
 ## What are Tor layers?
 
@@ -45,7 +46,7 @@ Exit node — knows destination but doesn’t know who you are
 
 Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example deep web links in table above.
 
-# How to find hidden services
+# How to find Tor Links?
 
 There are many tor link lists, wikis and catalogues where you can find addresses to .onion sites. There are also many link lists in clearnet but majority of them is not updated and most links do not work. It’s standard that hidden services work for small amount of time and dissappear forever.
 
