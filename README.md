@@ -7,7 +7,7 @@ If you are looking for dark web sites or tor links to access hidden wiki, we hav
 To access onion sites, you must use specific browsers:
 
 * **Desktop:** Download the Tor browser from `torproject.org`
-* **Mobile:** Use the Brave browser
+* **Mobile:** Use Tor browser or Brave browser TOR Feature.
 
 ---
 
@@ -33,8 +33,8 @@ While accessing the Hidden Wiki is not illegal in many countries, performing ill
 ### How did it start?
 The dark web is a hidden division of the internet that can only be accessed by those with special tools and is concealed below regular browsing. The **Onion Router (TOR)** network hosts the dark web, allowing users to remain anonymous.
 
-# **Deep Web Links** to working onion sites and markets can be found on The Hidden Wiki.
-Hidden Wiki is a community-maintained directory of TOR links connecting to various Dark Web sites.
+# Deep Web Links to working onion sites and markets can be found on The Hidden Wiki.
+Hidden Wiki is a community-maintained directory of TOR links connecting to various Dark Web sites and Deep Web services.
 
 ## What are Tor layers?
 
@@ -42,7 +42,7 @@ Hidden Wiki is a community-maintained directory of TOR links connecting to vario
 - Middle node — immediate layer between guard node and exit node
 - Exit node — knows destination but doesn’t know who you are
 
-# What are hidden services?
+## What are hidden services?
 
 Hidden services are accessible only within Tor network. Their domain names end with .onion. They are not indexed by any public search engine. The only way to enter .onion sites is to know equal address. You can find some example deep web links in table above.
 
